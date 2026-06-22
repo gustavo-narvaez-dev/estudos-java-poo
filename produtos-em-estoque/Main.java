@@ -1,3 +1,5 @@
+package OOP_01_SellProducts;
+
 public class Main {
     public static void main (String[] args) {
 

@@ -1,3 +1,5 @@
+package OOP_01_SellProducts;
+
 public class Product {
 
     String name;

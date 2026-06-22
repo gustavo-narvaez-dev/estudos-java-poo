@@ -4,11 +4,10 @@ Uma aplicação simples em Java via console desenvolvida para praticar conceitos
 
 ## 🚀 Como Testar o Projeto
 
-Se você quiser rodar este código na sua máquina, siga os passos abaixo:
+Para rodar e testar o código na sua máquina, siga os passos abaixo:
 
-1. **Pré-requisitos:** Certifique-se de ter o **Java JDK 17** (or superior) instalado.
-2. **Copie os arquivos:** Baixe ou copie os arquivos `Car.java` e `Main.java` para dentro de uma pasta chamada `OOP_02_Cars` no seu computador.
-3. **Abra o Terminal:** Abra o seu prompt de comando/terminal e navegue até a pasta raiz (onde o diretório `OOP_02_Cars` está localizado).
-4. **Compile o código:** Execute o seguinte comando:
-   ```bash
-   javac OOP_02_Cars/Main.java OOP_02_Cars/Car.java
+1. Abra a sua IDE de preferência (IntelliJ, Eclipse, VS Code, etc.).
+2. Crie um novo projeto Java.
+3. Crie um pacote (package) chamado `OOP_02_Cars`.
+4. Copie os arquivos `Car.java` e `Main.java` para dentro deste pacote.
+5. Execute a classe `Main.java` diretamente pela IDE clicando em **Run** (Play).

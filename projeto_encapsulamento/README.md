@@ -13,3 +13,7 @@ Este repositório contém um sistema de folha de pagamento corporativa simplific
 
 * `Employee.java`: Entidade que centraliza o estado do funcionário, validações e cálculo de bônus.
 * `Main.java`: Simulador responsável por instanciar os objetos e validar a aplicação das regras do sistema.
+
+## Para rodar o projeto:
+* Basta copiar e colar os arquivos `Employee.java` e `Main.java` na IDE de sua preferência.
+* Mas, antes, certifique-se de criar um PACKAGE com o nome de `Encapsulation_Projetc` ou apague a linha do PACKAGE.
